@@ -1,0 +1,6 @@
+*.h5
+result_images
+venv
+__pycache__
+*.keras
+*.jpg
